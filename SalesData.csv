@@ -1,0 +1,9 @@
+order_id,order_date,region,category,product,quantity,unit_price,discount_pct
+1001,2026-10-02,Nagpur,Electronics,Wireless Mouse,3,599,5
+1002,2026-10-05,Wardha,Stationery,A4 Notebook Pack,10,250,0
+1003,2026-10-08,Amravati,Electronics,USB Hub,2,1299,10
+1004,2026-10-12,Nagpur,Accessories,Laptop Stand,4,899,5
+1005,2026-10-15,Yavatmal,Stationery,Gel Pen Box,15,120,0
+1006,2026-10-19,Nagpur,Electronics,Mechanical Keyboard,2,2499,12
+1007,2026-10-22,Wardha,Accessories,Mouse Pad,8,299,0
+1008,2026-10-25,Amravati,Electronics,Webcam HD,1,1799,8
